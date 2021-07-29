@@ -1,6 +1,6 @@
 ## Upper East Side Directory
 
-Pizza\b
-Cookies\b
+Pizza\
+Cookies\
 Bars\
 Restaurants
