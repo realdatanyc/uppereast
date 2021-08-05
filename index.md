@@ -1,6 +1,7 @@
 ## Upper East Side 
 
-
+Last updated: Thursday, August 5, 2021
+An asterisk ( * ) denotes currently available for rent
 
 ## Buildings
 17 East 67th Street\
